@@ -1,0 +1,10 @@
+C:\CS289-Example\Lecture01-Example\Example02-WinForm\obj\Debug\Example02-WinForm.csprojResolveAssemblyReference.cache
+C:\CS289-Example\Lecture01-Example\Example02-WinForm\obj\Debug\Example02_WinForm.Properties.Resources.resources
+C:\CS289-Example\Lecture01-Example\Example02-WinForm\obj\Debug\Example02-WinForm.csproj.GenerateResource.Cache
+C:\CS289-Example\Lecture01-Example\Example02-WinForm\obj\Debug\Example02-WinForm.csproj.CoreCompileInputs.cache
+C:\CS289-Example\Lecture01-Example\Example02-WinForm\bin\Debug\Example02-WinForm.exe.config
+C:\CS289-Example\Lecture01-Example\Example02-WinForm\bin\Debug\Example02-WinForm.exe
+C:\CS289-Example\Lecture01-Example\Example02-WinForm\bin\Debug\Example02-WinForm.pdb
+C:\CS289-Example\Lecture01-Example\Example02-WinForm\obj\Debug\Example02_WinForm.MainForm.resources
+C:\CS289-Example\Lecture01-Example\Example02-WinForm\obj\Debug\Example02-WinForm.exe
+C:\CS289-Example\Lecture01-Example\Example02-WinForm\obj\Debug\Example02-WinForm.pdb
