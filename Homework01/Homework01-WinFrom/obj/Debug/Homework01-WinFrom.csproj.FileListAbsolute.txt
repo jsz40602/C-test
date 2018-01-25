@@ -1,0 +1,13 @@
+C:\CS289-Example\Homework01\Homework01-WinFrom\bin\Debug\Homework01-WinFrom.exe.config
+C:\CS289-Example\Homework01\Homework01-WinFrom\bin\Debug\Homework01-WinFrom.exe
+C:\CS289-Example\Homework01\Homework01-WinFrom\bin\Debug\Homework01-WinFrom.pdb
+C:\CS289-Example\Homework01\Homework01-WinFrom\obj\Debug\Homework01-WinFrom.csprojResolveAssemblyReference.cache
+C:\CS289-Example\Homework01\Homework01-WinFrom\obj\Debug\Homework01_WinFrom.Properties.Resources.resources
+C:\CS289-Example\Homework01\Homework01-WinFrom\obj\Debug\Homework01-WinFrom.csproj.GenerateResource.Cache
+C:\CS289-Example\Homework01\Homework01-WinFrom\obj\Debug\Homework01-WinFrom.csproj.CoreCompileInputs.cache
+C:\CS289-Example\Homework01\Homework01-WinFrom\obj\Debug\Homework01-WinFrom.exe
+C:\CS289-Example\Homework01\Homework01-WinFrom\obj\Debug\Homework01-WinFrom.pdb
+C:\CS289-Example\Homework01\Homework01-WinFrom\obj\Debug\Homework01_WinFrom.Form001.resources
+C:\CS289-Example\Homework01\Homework01-WinFrom\obj\Debug\Homework01_WinFrom.MainForm.resources
+C:\CS289-Example\Homework01\Homework01-WinFrom\obj\Debug\Homework01_WinFrom.Form004.resources
+C:\CS289-Example\Homework01\Homework01-WinFrom\obj\Debug\Homework01_WinFrom.Form007.resources
