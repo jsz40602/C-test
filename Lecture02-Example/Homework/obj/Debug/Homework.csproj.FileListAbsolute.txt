@@ -1,0 +1,9 @@
+C:\CS289-Example\Lecture02-Example\Homework\obj\Debug\Homework.Properties.Resources.resources
+C:\CS289-Example\Lecture02-Example\Homework\obj\Debug\Homework.csproj.GenerateResource.Cache
+C:\CS289-Example\Lecture02-Example\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\CS289-Example\Lecture02-Example\Homework\bin\Debug\Homework.exe.config
+C:\CS289-Example\Lecture02-Example\Homework\bin\Debug\Homework.exe
+C:\CS289-Example\Lecture02-Example\Homework\bin\Debug\Homework.pdb
+C:\CS289-Example\Lecture02-Example\Homework\obj\Debug\Homework.exe
+C:\CS289-Example\Lecture02-Example\Homework\obj\Debug\Homework.pdb
+C:\CS289-Example\Lecture02-Example\Homework\obj\Debug\Homework.Form1.resources

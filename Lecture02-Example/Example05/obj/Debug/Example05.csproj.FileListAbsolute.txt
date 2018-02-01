@@ -1,0 +1,10 @@
+C:\CS289-Example\Lecture02-Example\Example05\bin\Debug\Example05.exe.config
+C:\CS289-Example\Lecture02-Example\Example05\bin\Debug\Example05.exe
+C:\CS289-Example\Lecture02-Example\Example05\bin\Debug\Example05.pdb
+C:\CS289-Example\Lecture02-Example\Example05\obj\Debug\Example05.Properties.Resources.resources
+C:\CS289-Example\Lecture02-Example\Example05\obj\Debug\Example05.csproj.GenerateResource.Cache
+C:\CS289-Example\Lecture02-Example\Example05\obj\Debug\Example05.csproj.CoreCompileInputs.cache
+C:\CS289-Example\Lecture02-Example\Example05\obj\Debug\Example05.exe
+C:\CS289-Example\Lecture02-Example\Example05\obj\Debug\Example05.pdb
+C:\CS289-Example\Lecture02-Example\Example05\obj\Debug\Example05.csprojResolveAssemblyReference.cache
+C:\CS289-Example\Lecture02-Example\Example05\obj\Debug\Example05.MainWindow.resources
